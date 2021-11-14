@@ -14,9 +14,10 @@ version=1 or more
 
 installs a specified package
 
-name=
+name=st-<&s>
 
 #### KK
+version 1 to 18s1
 
 ### Linux (requires WSL)
 
